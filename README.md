@@ -1,4 +1,4 @@
-<h1 align="center"> Forms-de-matricula </h1>
+<h1 align="center"> Formulário de matrícula </h1>
 
 <p align="center"> projeto Landing Page de aplicativo </p>
 
